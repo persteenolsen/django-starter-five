@@ -4,7 +4,7 @@
 
 This example shows how to use Django 5 on Vercel with Serverless Functions using the [Python Runtime](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/python).
 
-Last updated: 31-01-2026
+Last updated: 15-02-2026
 
 Node version selected at Vercel Cloud: 22
 
@@ -251,7 +251,7 @@ python manage.py makemigrations example
 ```
 Note: It is important to add the name of the app in the command `example` !!!
 
-This command will create a file for the migration of the Model to a Table in the Postgre DB
+This command will create a file for the migration of the Model to a Table in the PostgreSQL DB
 
 - Now run the command: 
 
